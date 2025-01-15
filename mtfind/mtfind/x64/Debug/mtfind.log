@@ -1,0 +1,8 @@
+﻿  mtfind.cpp
+D:\multi_thread_proj\mtfind\mtfind.cpp(62,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\tuple(143,47): warning C4267: 'initializing': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\tuple(143,47): warning C4267:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\tuple(143,47): warning C4267:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\tuple(143,47): warning C4267:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\tuple(143,47): warning C4267:         ]
+  mtfind.vcxproj -> D:\multi_thread_proj\mtfind\x64\Debug\mtfind.exe
